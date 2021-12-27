@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @digital-gerry
 - 👀 I’m interested in wordpress and elementor and enxtcloud
 - 🌱 I’m currently learning website design using advanced css
-- 💞️ I’m looking to collaborate on elementor and wordpress and e
+- 💞️ I’m looking to collaborate on elementor and wordpress and nextcloud hosted on qnap
 - 📫 How to reach me @digitalgerry
 
 <!---
